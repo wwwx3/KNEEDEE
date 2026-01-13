@@ -73,10 +73,7 @@ The full training and inference pipeline is stored in the PictoBlox project file
 The training dataset contains **real patient knee images** collected under hospital supervision.
 
 Due to **PDPA and medical privacy regulations**, the raw images cannot be publicly released.  
-This repository provides:
-- The full AI training pipeline (`.sb3`)
-- The trained model
-- Aggregated validation results
+This repository provides the full AI training pipeline (`.sb3`)
 
 This follows standard practice in **medical AI research**.
 
