@@ -108,6 +108,5 @@ This project combines **medical AI, ethical data handling, and real-world deploy
 
 ## License
 Educational & research use. Medical data is protected under PDPA.
-```
 
 ---
