@@ -79,7 +79,7 @@ This follows standard practice in **medical AI research**.
 
 ---
 
-## My Role
+## My Team
 
 **Chatnatda Ovatanupat (Winnie)**  
 Founder & AI Engineer
@@ -88,8 +88,12 @@ Founder & AI Engineer
 - Collected and labeled medical images  
 - Coordinated with hospital doctors  
 - Trained and validated the model  
-- Designed system workflow and user interaction  
+- Designed system workflow and user interaction
 
+**Arada Subsiripaibool (Earth)**  
+Co-Founder & Researcher
+
+- Conducted researches and Interviews  
 ---
 
 ## Impact
