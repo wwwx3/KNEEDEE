@@ -68,27 +68,6 @@ The full training and inference pipeline is stored in the PictoBlox project file
 
 ---
 
-## 📂 Project Files
-
-```
-
-KNEEDEE/
-├── img/
-├── pictoblox_project/
-│   └── kneedee.sb3          ← AI training & inference pipeline
-├── trained_model/
-│   └── kneedee_model.zip    ← exported trained model
-├── validation/
-│   ├── confusion_matrix.png
-│   └── accuracy_results.png
-├── demo/
-│   └── demo_video.mp4
-└── README.md                ← privacy notice
-
-```
-
----
-
 ## Data Privacy
 
 The training dataset contains **real patient knee images** collected under hospital supervision.
