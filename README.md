@@ -65,9 +65,10 @@ The full training and inference pipeline is stored in the PictoBlox project file
 **System Flowchart**
 
 ![Kneedee system flowchart](img/kneedeesysflow.png)
+
 ---
 
-## Project Files
+## 📂 Project Files
 
 ```
 
