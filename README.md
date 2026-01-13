@@ -45,7 +45,7 @@ The dataset was used both for **training** and for **clinical-style validation**
 After training, KNEEDEE was tested by comparing:
 - **AI predictions**
 vs  
-- **Doctor visual assessments and experience**
+- **Doctor's visual assessments and experience**
 
 This allowed us to evaluate not just algorithmic accuracy, but **real-world medical reliability**.
 
@@ -93,7 +93,7 @@ Founder & AI Engineer
 **Arada Subsiripaibool (Earth)**  
 Co-Founder & Researcher
 
-- Conducted researches and Interviews  
+- Conducted research and Interviews  
 ---
 
 ## Impact
